@@ -2,11 +2,11 @@
 Contact Manager application in angular.js
 
 ## Live Version ##
-http://sumitmann.github.io/#/contactmanager
+http://sumitmann.github.io/
 
-# Dependency installation #
-npm install -g grunt-cli
-npm install -g karma-cli
+# Required Installations #
+1. npm install -g grunt-cli
+2. npm install -g karma-cli
 
 ## Follow below steps to run the application in local machine ##
 1. Download zip
