@@ -1,8 +1,6 @@
 # Contact Manager #
 Contact Manager application in angular.js
 
-## Live Version ##
-http://sumitmann.github.io/
 
 # Required Installations #
 1. npm install -g grunt-cli
